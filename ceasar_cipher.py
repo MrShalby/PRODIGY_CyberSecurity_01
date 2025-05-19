@@ -1,4 +1,4 @@
-# AIM : Caesar Cipher Encoder/Decoder on user input.
+# AIM : Caesar Cipher Encoder/Decoder on user input(Message) and their desire shift value.
 
 def caesar_cipher(text, shift, mode):
       
